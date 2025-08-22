@@ -1,3 +1,9 @@
+Ver capturas de pantalla del proyecto:
+Sistema Ventas.png
+Categoria.png
+Filtro.png
+Filtrar.png
+
 Explicación sobre el sql de mi base de datos:
 
 SELECT TOP 1 
